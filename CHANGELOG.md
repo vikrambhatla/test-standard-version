@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.3](https://github.com/vikrambhatla/test-standard-version/compare/v1.2.2...v1.2.3) (2019-02-28)
+
+
+### Bug Fixes
+
+* **component:** updated test.js ([5750971](https://github.com/vikrambhatla/test-standard-version/commit/5750971))
+
+
+
 ## [1.2.2](https://github.com/vikrambhatla/test-standard-version/compare/v1.2.1...v1.2.2) (2019-02-28)
 
 
