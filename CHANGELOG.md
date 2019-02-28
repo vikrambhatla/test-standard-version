@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.2.0](https://github.com/vikrambhatla/test-standard-version/compare/v1.1.3...v1.2.0) (2019-02-28)
+
+
+### Bug Fixes
+
+* **package:** updated test.js ([52cb2c0](https://github.com/vikrambhatla/test-standard-version/commit/52cb2c0))
+
+
+### Features
+
+* **package:** CN-12100 added src/test.js ([e13bb31](https://github.com/vikrambhatla/test-standard-version/commit/e13bb31))
+
+
+
 ## [1.1.3](https://github.com/vikrambhatla/test-standard-version/compare/v1.1.2...v1.1.3) (2019-02-28)
 
 
