@@ -1,5 +1,6 @@
 {
   "name": "@standard-version/test",
+  "description": "test",
   "scripts": {
     "release": "standard-version"
   },
